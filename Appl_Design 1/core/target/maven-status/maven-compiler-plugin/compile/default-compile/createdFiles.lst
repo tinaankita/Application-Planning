@@ -1,0 +1,10 @@
+datatransferobjects\ViewHomeworkDTO.class
+datatransferobjects\SearchRoomDTO.class
+datatransferobjects\PlanningCreationDTO.class
+entities\Room.class
+entities\Entity.class
+usecases\ViewHomeworkInteractor.class
+gateaways\IRepository.class
+datatransferobjects\Response.class
+usecases\SearchRoomsInteractor.class
+entities\Homework.class
