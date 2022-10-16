@@ -1,0 +1,9 @@
+gateways\iRepository.class
+entities\Absence.class
+usecases\MarkAbsenceInteractor.class
+datatransferobjects\MarkAbsenceDTO.class
+datatransferobjects\ScheduleDTO.class
+datatransferobjects\response.class
+entities\Entity.class
+usecases\ScheduleInteractor.class
+entities\Schedule.class
